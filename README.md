@@ -1,3 +1,5 @@
+# Physics-based Deep Learning for Imaging Neuronal Activity via Two-photon and Light Field Microscopy
+
 Welcome to the code repository for our paper, "Physics-based Deep Learning for Imaging Neuronal Activity via Two-photon and Light Field Microscopy", available at https://ieeexplore.ieee.org/document/10141580 and https://www.biorxiv.org/content/10.1101/2022.10.11.511633v1.full.pdf. Our work presents a deep learning framework for neuronal activity imaging, integrating LFM's rapid imaging with the high-resolution capabilities of 2P microscopy.
 To apply the framework to your datasets, initiate the process with the following scripts in order:
 
