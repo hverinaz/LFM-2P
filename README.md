@@ -1,8 +1,8 @@
 Welcome to the code repository for our paper, "Physics-based Deep Learning for Imaging Neuronal Activity via Two-photon and Light Field Microscopy", available at https://ieeexplore.ieee.org/document/10141580. Our work presents a deep learning framework for neuronal activity imaging, integrating LFM's rapid imaging with the high-resolution capabilities of 2P microscopy.
 To apply the framework to your datasets, initiate the process with the following scripts in order:
 
-initFrwd.py - Initializes the forward model.
-initG.py - Sets up the generative network.
+initFrwd.py - Initializes the forward model.  
+initG.py - Sets up the generative network.  
 mainLF2P.py - Commences the main adversarial training loop.
 
 
