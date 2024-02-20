@@ -8,4 +8,4 @@ initG.py - Sets up the generative network.
 mainLF2P.py - Commences the main adversarial training loop.
 
 
-We drew inspiration for part of the adversarial component from the work of G. Kwon, C. Han, and D.-s. Kim in their paper, "Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks," presented at the International Conference on Medical Image Computing. A special shoutout to the authors for sharing their code at https://github.com/cyclomon/3dbraingen !
+We drew inspiration for part of the adversarial component from the work of G. Kwon, C. Han, and D.-s. Kim in their paper, "Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks". A special shoutout to the authors for sharing their code at https://github.com/cyclomon/3dbraingen !
