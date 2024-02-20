@@ -25,7 +25,7 @@ from random import randint
 from utils import AverageMeter, calc_psnr
 from modelsAdv import *
 
-#python mainLF2P.py --trnVol-file "../../advContZReal/forward2P/vol_newD2PwithTmp.mat"   --trnLF-file "../../advContZReal/forward2P/newD2PwithTmpPad.mat"  --trnLF2-file "../../advContZReal/forward2P/newD2PwithTmpS1A2Pad.mat"  --trnLF3-file "../../advContZReal/forward2P/newD2PwithTmpS2A3Pad.mat"  --outputs-dir "./outputs"           --weights-fileFl "./outputs/weights/epochFl_24.pth"    --weights-fileG "./outputs/weights/epochG_40.pth"   --weights-fileD "./outputs/weights/epochD_40.pth"     --batch-size 2 --num-epochs 3000     
+#python mainLF2P.py --trnVol-file "../vol_2p.mat"   --trnLF-file "../LF1_StackAndTmp.mat"  --trnLF2-file "../LF2_temporal.mat"  --trnLF3-file "../LF3_temporal.mat"  --outputs-dir "./outputs"           --weights-fileFl "./outputs/weights/epochFl_24.pth"    --weights-fileG "./outputs/weights/epochG_40.pth"   --weights-fileD "./outputs/weights/epochD_40.pth"     --batch-size 2 --num-epochs 400     
 
 
 
