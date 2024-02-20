@@ -41,7 +41,7 @@ parser.add_argument('--weights-fileFl', type=str)
 parser.add_argument('--outputs-dir', type=str, required=True)
 parser.add_argument('--num-epochs', type=int, default=3000)
 
-# python initFrwd.py --outputs-dir "./outputs" --weights-fileF "../../advContZReal/forward2P/HTomato3x3Smpl_514_1919.mat"   --weights-fileFl "./outputs/weights/epochFl_24.pth"
+# python initFrwd.py --outputs-dir "./outputs" --weights-fileF "../lfMatrix.mat"   --weights-fileFl "./outputs/weights/epochFl.pth"
 
 
 
