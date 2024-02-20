@@ -28,7 +28,7 @@ from modelsAdv import *
  
  
 
-#python initG.py --trnVol-file "../../advContZReal/forward2P/vol_newD2PwithTmp.mat"   --trnLF-file "../../advContZReal/forward2P/newD2PwithTmpPad.mat"  --outputs-dir "./outputs"           --weights-fileG "./outputs/weights/epochG_40.pth"     --batch-size 2 --num-epochs 3000
+#python initG.py --trnVol-file "../vol_2P.mat"   --trnLF-file "../LF1_StackAndTmp.mat"  --outputs-dir "./outputs"           --weights-fileG "./outputs/weights/epochG_40.pth"     --batch-size 2 --num-epochs 400
  
 
 
