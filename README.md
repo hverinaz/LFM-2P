@@ -10,4 +10,4 @@ To implement this framework in your research, start with the following scripts:
   
 If you use this code in your research, please cite our paper [IEEE Xplore](https://ieeexplore.ieee.org/document/10141580)
 
-Part of our adversarial approach was inspired by "Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks" by G. Kwon, C. Han, and D.-s. Kim, whose code is available at [https://github.com/cyclomon/3dbraingen](https://github.com/cyclomon/3dbraingen).
+Part of our adversarial approach was inspired by "Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks" by G. Kwon, C. Han, and D.-s. Kim, whose code is available [here](https://github.com/cyclomon/3dbraingen).
