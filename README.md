@@ -5,7 +5,7 @@ Welcome to the code repository for our paper, "Physics-based Deep Learning for I
 To implement this framework in your research, start with the following scripts:
 
 - `initFrwd.py` - Prepares the forward model.
-- `initG.py` - Establishes the generative network.
+- `initG.py` - Initializes the reconstruction network.
 - `mainLF2P.py` - Begins the adversarial training loop.
   
 If you use this code in your research, please cite our paper [IEEE Xplore](https://ieeexplore.ieee.org/document/10141580)
