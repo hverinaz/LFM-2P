@@ -8,6 +8,6 @@ To implement this framework in your research, start with the following scripts:
 - `initG.py` - Initializes the reconstruction network.
 - `mainLF2P.py` - Begins the adversarial training loop.
   
-If you use this code in your research, please cite our paper [IEEE Xplore](https://ieeexplore.ieee.org/document/10141580)
+If you use this code in your research, please cite our paper [IEEE Xplore](https://ieeexplore.ieee.org/document/10141580).
 
 Part of our adversarial approach was inspired by "Generation of 3D Brain MRI Using Auto-Encoding Generative Adversarial Networks" by G. Kwon, C. Han, and D.-s. Kim, whose code is available [here](https://github.com/cyclomon/3dbraingen).
